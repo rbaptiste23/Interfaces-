@@ -25,6 +25,7 @@ public class App {
 			iinfo.showInfo();
 			System.out.println("************");
 			System.out.println("************");
+			System.out.println("******test******");
 		}
 		
 		
